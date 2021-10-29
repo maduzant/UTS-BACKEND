@@ -1,12 +1,6 @@
-# AdminLTE-CRUD-With-Codeigniter
-CRUD dengan Template Admin LTE menggunakan Codeigniter
 
-Fitur : 
-  1. CRUD with Ajax
-  2. Datatable
-  3. Export dan Import ke Excel
-  4. Chart
-  
-Akun Login :
-  1. username : auwfar / password : auwfar
-  2. username : ozil / password : ozil
+CRUD dengan Codeigniter
+
+Anggota :
+Madu Zaneta A V3920036 TIE
+Viorella Sunghaiyon V3920059 TIE
